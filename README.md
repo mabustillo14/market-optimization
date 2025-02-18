@@ -4,7 +4,7 @@ El objetivo principal es analizar la performance general de la base de clientes 
 ## <br> Tecnologías ⚙️
 Este proyecto se ha desarrollado utilizando Python en un entorno de Jupyter Notebook.
 * **Bibliotecas:** Pandas
-* **Exploración de Datos:** funpymodeling
+* **Exploración de Datos:** funpymodeling, ydata_profiling.
 
 ## Análisis de Negocio
 A continuación se detalla la metología utilizada en la [Resolución del Business Case](https://github.com/mabustillo14/market-optimization/blob/main/Business%20Case.pdf) de optimización del área de Market & Category.
