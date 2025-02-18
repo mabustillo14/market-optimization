@@ -3,6 +3,8 @@ El objetivo principal es analizar la performance general de la base de clientes 
 
 
 ## Análisis de Negocio
+A continuación se detalla la metología utilizada en la [Resolución del Business Case](https://github.com/mabustillo14/market-optimization/blob/main/Business%20Case.pdf) de optimización del área de Market & Category.
+
 ### Etapa #1: Análisis de Clientes
 El objetivo de este análisis es evaluar el desempeño general de la base de clientes y las órdenes procesadas de la compañía, con un enfoque especial en tres áreas clave:
 * Métricas de Ventas
@@ -15,18 +17,10 @@ El objetivo de este análisis es evaluar el desempeño general de la base de cli
 * Analizar la composición y comportamiento de los clientes para entender sus necesidades, patrones de compra y fidelidad.
 * Formular recomendaciones basadas en los hallazgos del análisis.
 
-#### Dashboard y Análisis de Datos
+#### Dashboard y Análisis de Datos Resultantes
 ![Dashboard de Análisis de Venta y Comportamiento del Cliente](/images/dashboard_1.png)
 
 ![Dashboard de Eficiencia Operacional](/images/dashboard_2.png)
-
-
-#### Conclusiones Generales
-* Las ventas brutas ($221.003.098,73) y netas ($209.088.518,65) muestran un rendimiento alto, con un valor promedio por orden ($8.370,52) aceptable. Sin embargo, los descuentos aplicados, aunque beneficiosos para los clientes, reducen ligeramente el margen de ganancia. Se podría mejorar la rentabilidad, para ello la compañía podría optimizar su estrategia de precios, quizás implementando precios dinámicos (de acuerdo a la demanda) o limitando los descuentos en productos clave para maximizar el retorno.
-
-* La tasa de conversión de órdenes completadas (99,97%) es alta, lo que fundamenta que la gestión de los pedidos es eficiente, pero el tiempo promedio de entrega de 6,49 días, es un área crítica que necesita atención. Reducir los tiempos de entrega mejoraría la experiencia del cliente y disminuiría los costos operacionales. Una optimización en la logística y la planificación de rutas de entrega podría ser una solución clave.
-
-* Si bien la tasa de recompra es baja pero aceptable (41,46%), hay margen para incrementar la frecuencia de compra (2,11 órdenes) y fidelizar más a los clientes. Más allá del crecimiento (una tasa del 114,59%) y retención de clientes (una tasa del 267,34%), la compañía podría beneficiarse de un programa de fidelización y campañas de marketing personalizadas para aumentar la frecuencia de compra, lo que contribuiría a un mayor valor a largo plazo por cliente e incrementar el Customer Quarter Value (actualmente de $27.717,97 para el Quarter 3 y de $26.863,08 para el Quarter 4 hasta Noviembre).
 
 - - - 
 
@@ -42,7 +36,7 @@ El objetivo de este análisis es evaluar la performance de los productos y clasi
 * Clasificar los productos de acuerdo con su rendimiento utilizando una metodología de clasificación ABC.
 * Tomar decisiones más informadas sobre qué productos lanzar, revisar o discontinuar, enfocando recursos en aquellos que realmente generan valor para la compañía.
 
-#### Estrategia de Negocios
+#### Estrategia de Negocios Implementada
 * Ajuste de Precios:
 Optimizar los precios de los productos del grupo en revisión para asegurar que sean competitivos en el mercado, sin sacrificar los márgenes de rentabilidad.
 * Promociones de Cross-Selling:
